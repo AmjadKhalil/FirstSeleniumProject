@@ -13,5 +13,8 @@ public class SeleniumDemo {
 		driver.get("http://google.com");
 		
 		
+		driver.get("https://www.amazon.com");
+
+		
 	}
 }
